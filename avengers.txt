@@ -7,3 +7,4 @@ black widow
 hulk
 hawk eye
 thor
+Lori
