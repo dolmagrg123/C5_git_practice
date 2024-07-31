@@ -9,3 +9,4 @@ hawk eye
 thor
 Black Panther
 Captain America
+Lore
