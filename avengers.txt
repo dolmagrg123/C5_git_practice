@@ -7,3 +7,5 @@ black widow
 hulk
 hawk eye
 thor
+Black Panther
+Captain America
